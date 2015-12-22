@@ -1,6 +1,6 @@
 {
-    "name": "ktcrain/webpurify",
-    "description": "A laravel wrapper for virtual incentives",
+    "name": "ktcrain/laravel-virtualincentives",
+    "description": "A laravel wrapper for virtual incentives api",
     "version": "1.0.0",
     "keywords": ["laravel", "virtual incentives"],
     "license": "MIT",
