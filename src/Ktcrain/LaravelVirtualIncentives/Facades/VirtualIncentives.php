@@ -1,4 +1,4 @@
-<?php namespace Ktcrain\VirtualIncentives;
+<?php namespace Ktcrain\LaravelVirtualIncentives;
 
 use Illuminate\Support\Facades\Facade;
 
