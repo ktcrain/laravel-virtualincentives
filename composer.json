@@ -19,5 +19,11 @@
         "psr-0": {
             "Ktcrain\\LaravelVirtualIncentives\\": "src/"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ktcrain/virtualincentives"
+        },
+    ]
 }
